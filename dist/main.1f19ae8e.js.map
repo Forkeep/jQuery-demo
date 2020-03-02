@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["a","$","console","log","find","addClass"],"mappings":"AAAAA,CAAC,GAAEC,CAAC,CAAC,OAAD,CAAJ;AAEAC,OAAO,CAACC,GAAR,CAAYH,CAAZ;AACAA,CAAC,CAACI,IAAF,CAAO,QAAP,EAAiBC,QAAjB,CAA0B,KAA1B,GAAiC","file":"main.1f19ae8e.js","sourceRoot":"../src","sourcesContent":["a= $('#test')\n\nconsole.log(a)\na.find('.child').addClass('red') // 请确保这句话成功执行"]}
